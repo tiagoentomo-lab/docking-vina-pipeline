@@ -1,9 +1,7 @@
 # Large or regenerable docking outputs
-results/poses/
-results/logs/
-
-# Local configuration (keep config.example.json)
-config.json
+poses/
+validacao/*.pdbqt
+saida/
 
 # Python
 __pycache__/

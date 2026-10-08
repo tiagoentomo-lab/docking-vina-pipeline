@@ -1,0 +1,2 @@
+atividade,alvo,pdb_id,ligand_resname,chain,status,receptor_pdbqt,center_x,center_y,center_z,size_x,size_y,size_z,n_atomos_ligante_ref
+example,TARGET_1,XXXX,LIG,A,ok,alvos/XXXX_receptor.pdbqt,0.0,0.0,0.0,22,22,22,30
