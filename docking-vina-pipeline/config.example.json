@@ -1,0 +1,16 @@
+{
+  "receptors": [
+    {
+      "name": "TARGET_1",
+      "pdbqt": "receptors/TARGET_1.pdbqt",
+      "center": [0.0, 0.0, 0.0],
+      "size": [22.0, 22.0, 22.0]
+    },
+    {
+      "name": "TARGET_2",
+      "pdbqt": "receptors/TARGET_2.pdbqt",
+      "center": [0.0, 0.0, 0.0],
+      "size": [22.0, 22.0, 22.0]
+    }
+  ]
+}
